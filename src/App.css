@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 85%;
+}
+
 body {
   font-family:
     -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
@@ -49,6 +53,7 @@ body {
 }
 
 .navbar-links {
+  font-size: 1.2rem;
   display: flex;
   gap: 1.5rem;
   align-items: center;
